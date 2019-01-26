@@ -1,0 +1,23 @@
+.picture { 
+    position: relative;
+    text-align: center;
+    color: orange;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.word {
+    float:right;
+    border-radius: 30px;
+    background: red;
+}
+
+.text {
+    float: left;
+    border-style: dotted;
+}
